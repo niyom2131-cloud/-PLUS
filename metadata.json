@@ -1,0 +1,6 @@
+{
+  "name": "หวยพลัส",
+  "description": "ระบบบริหารจัดการตัวเลข 00-99 สำหรับการสาธิตการจอง ค้นหาเลขเด็ด เลขกลุ่ม และตรวจสอบสถิติแบบครบวงจร มีระบบบันทึกประวัติและควบคุมสำหรับผู้ดูแลระบบ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
